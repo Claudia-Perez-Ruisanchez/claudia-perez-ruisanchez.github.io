@@ -5,7 +5,7 @@
 ### Unsupervised Learning
 
 - [Segmenting and Clustering Neighborhoods in Toronto](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Toronto/blob/master/Toronto.ipynb)
-- [Project 2 Title](http://example.com/)
+- [Predicting House Prices with Lasso](http://nbviewer.jupyter.org)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
