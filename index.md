@@ -4,7 +4,7 @@
 
 ### Unsupervised Learning
 
-- [Opening an Italian Resraurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
+- [Opening an Italian Restaurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
 - [Segmenting and Clustering Neighborhoods in Toronto](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Toronto/blob/master/Toronto.ipynb)
 
 ### Supervised Learning
