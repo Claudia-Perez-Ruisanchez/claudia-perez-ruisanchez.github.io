@@ -10,7 +10,7 @@
 ### Supervised Learning
 
 - [Predicting House Prices with Lasso](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/House_Prices_Lasso/blob/master/House_Prices.ipynb)
-- [Project 3 Title](http://example.com/)
+- [Predicting ADA (Cardano) Stock Price with LSTM](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Cardano/blob/master/Cardano.ipynb)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
