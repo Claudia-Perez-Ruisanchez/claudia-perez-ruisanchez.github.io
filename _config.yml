@@ -1,9 +1,8 @@
 title: Claudia Perez # your name (or website title) here
-logo: "/images/c.png?raw=true" # your photo (or logo) here
+picture: image/c.png # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist with +2 years of experience in Machine Learning and +4 years of experience in Algorithms design, Algebra,
-  and Coding. Passionate about learning new technologies  with highly hands-on experience and 
-  complex problem-solving. A great lover of Mathematics and challenges. Has Ph.D. Degree in Computer Science and Mathematics. 
-  
+  I'm a Data Analyst  with strong autodidact skills and highly hands-on experience in complex problem-solving, Machine Learning
+  and Statistics. Passionate about learning new technologies and a great lover of Mathematics and challenges. I have a
+  Ph.D. Degree in Computer Science and Mathematics.
 #<a href="https://www.linkedin.com/in/claudiaperezruisanchez/">View My LinkedIn Profile</a>  
 theme: jekyll-uno
