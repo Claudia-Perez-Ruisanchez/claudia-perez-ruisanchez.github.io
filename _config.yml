@@ -1,10 +1,9 @@
 title: Claudia Perez # your name (or website title) here
-picture: image/c.png # your photo (or logo) here
+logo: image/c.png # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm a Data Analyst  with strong autodidact skills and highly hands-on experience in complex problem-solving, Machine Learning
   and Statistics. Passionate about learning new technologies and a great lover of Mathematics and challenges. I have a
   Ph.D. Degree in Computer Science and Mathematics.
   
 #<a href="https://www.linkedin.com/in/claudiaperezruisanchez/">View My LinkedIn Profile</a>  
-theme: jekyll-theme-architect
-![](images/c.png)
+theme: jekyll-theme-minimal
